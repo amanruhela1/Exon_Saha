@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+bas ek baaar 10000 interns aane lage jaye har session me 
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+*System phaadddd denge*
