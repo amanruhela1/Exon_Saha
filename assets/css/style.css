@@ -64,7 +64,7 @@ h6 {
 .iframe-container {
   position: relative;
   overflow: hidden;
-  width: 95%;
+  width: 100%;
   padding-top: 50%; /* 16:9 aspect ratio */
 }
 
