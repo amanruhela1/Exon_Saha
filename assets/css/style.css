@@ -61,6 +61,21 @@ h6 {
   animation: animate-preloader 1s linear infinite;
 }
 
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  width: 95%;
+  padding-top: 50%; /* 16:9 aspect ratio */
+}
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @keyframes animate-preloader {
   0% {
     transform: rotate(0deg);
